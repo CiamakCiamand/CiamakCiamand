@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning about
 - 💞️ I’m looking to collaborate on codes
-- 📫 How to reach me by my mail outlook
+- 📫 How to reach me by my mail outlook or g
 
 <!---
 CiamakCiamand/CiamakCiamand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
