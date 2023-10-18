@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CiamakCiamand
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning about
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on codes
 - 📫 How to reach me by my mail outlook or gmail
 
