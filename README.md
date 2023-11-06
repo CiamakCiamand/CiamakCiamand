@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CiamakCiamand
 - 👀 I’m interested in Codes
 - 🌱 I’m currently learnings
-- 💞️ I’m looking to collaborate on code 
+- 💞️ I’m looking to collaborate on code
 - 📫 How to reach me by my mail outlook or gmail
 
 <!---
